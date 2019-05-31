@@ -1,0 +1,14 @@
+we used Octave instead of MATLAB
+
+the Octave basic Syntax Like python sometimes,but it used for math.
+
+So the following are the special Syntax
+
+
+1. []  means matrix,not a list
+
+2. [1 2;3 4]  the space means same row,semicolon(;) means start the next row
+
+3. you can use like this   A = [1 2 ; 3 4] then A is a matrix,you can access the value by A(2,2) it means 4 in this example，but not like A[2,2] in python
+
+4
